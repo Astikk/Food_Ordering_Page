@@ -1,0 +1,31 @@
+ .side_menu{
+    width: 20%;
+    height: 100%;
+    background-color: rgb(73, 216, 147);
+}
+
+
+#mnu{
+    float: right;
+    width: 15vh;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    top: 30%;
+    background-color: white;
+    color: rgb(73, 216, 147);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+#note{
+    width: 10px;
+    height: 20px;
+    background-color: white;
+}
+
+.li{
+    width: 5px;
+    color: rgb(73, 216, 147);
+}

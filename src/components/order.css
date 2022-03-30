@@ -1,0 +1,52 @@
+.order_list{
+    width: 40%;
+   margin-top: 3%;
+}
+
+.my_edt{
+    float: right;
+    color: rgb(73, 216, 147);
+    margin: 3%;
+}
+
+#line{
+    margin-top: 30%;
+    color: gray;
+}
+
+#order_list{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+#drag{
+    text-align: center;
+    color: rgb(73, 216, 147);
+    border: 3px rgb(73, 216, 147) dotted ;
+    margin-top: 90%;
+}
+
+.price{
+    margin-top: 7%;
+}
+
+.dolr{
+    float: right;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.totl{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#butn{
+    width: 100%;
+    margin-top: 7%;
+    background-color:rgb(73, 216, 147) ;
+    height: 5vh;
+    border: none;
+    border-radius: 20px;
+}
