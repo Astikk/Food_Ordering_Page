@@ -1,20 +1,11 @@
 import "./main.css";
+import Order from './Order';
 
 function Main()
 {
    //Food Items
     return(
         <div className="main">
-           <div id="recomnd">
-           <label for="cars"id="sorted">Sorted By:</label>
-
-            <select name="selct" id="option">
-               <option value="Recommend">Recommended</option>
-               <option value=" "></option>
-            </select>
-
-           </div>
-           
 
             <div id="container">
 
@@ -100,11 +91,13 @@ function Main()
             </section>
 
            
-
-            </div>
             
-
+            </div>
+            <Order/>
         </div>
+
+        
+
     );
 }
 

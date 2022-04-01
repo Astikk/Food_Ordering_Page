@@ -4,6 +4,21 @@
     background-color: rgb(73, 216, 147);
 }
 
+.hme
+{
+    float: right;
+    width: 15vh;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    top: 10%;
+    background-color: white;
+    color: rgb(73, 216, 147);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 
 #mnu{
     float: right;
